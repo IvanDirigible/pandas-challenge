@@ -79,17 +79,19 @@ WRITTEN REPORT
 ```
 
 ## Examples of Use
+The following are a few select DataFrames containing analyzed and aggregated data exploring different aspects of the dataset:
+
 ### District Summary:
-![A DataFrame summarizing the dataset from the school district as a whole.](../Resources/district-summary.png)
+![A DataFrame summarizing the dataset from the school district as a whole.](./Resources/district-summary.png)
 
 ### School Summary:
-![A DataFrame summarizing key statistics for each school in the district.](../Resources/school-summary.png)
+![A DataFrame summarizing key statistics for each school in the district.](./Resources/school-summary.png)
 
 ### Scores by School Size
-![A DataFrame summarizing key statistics by aggregated school population.](../Resources/scores-by-size.png)
+![A DataFrame summarizing key statistics by aggregated school population.](./Resources/scores-by-size.png)
 
 ### Scores by School Type
-![A DataFrame summarizing key statistics by aggregated school type.](../Resources/scores-by-type.png)
+![A DataFrame summarizing key statistics by aggregated school type.](./Resources/scores-by-type.png)
 
 ## License
 This project is licensed under the GNU General Public License v3.0.  
